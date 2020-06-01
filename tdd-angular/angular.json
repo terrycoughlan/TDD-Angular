@@ -92,7 +92,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.less"
             ],
             "scripts": []
           }
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "tdd-angular"
+    }
+  },
+  "defaultProject": "tdd-angular",
+  "cli": {
+    "analytics": "605bd9cf-f9df-45ed-92a5-83413dd1feef"
+  }
 }
